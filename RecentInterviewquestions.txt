@@ -1,0 +1,78 @@
+What is the difference between controller and rest controller
+what is spring bean lifecycle
+what is the difference between spring and spring boot
+profiling in microservices
+what is api gate way how it works
+ACID transaction
+what is the purpopose restropective in scrum
+what is difference between hashmap and hashset
+what is hashmap algorithm
+what are the new fewtures added in java8
+what are solid principles
+why string is immutable. how to make a class immutable
+what are the different ways of creating object in java
+Do you know react or angular
+finding the duplicate characters in arrays
+count of duplicate values in array
+
+what are the different annotations used in spring boot
+Reversion of sting palindrome
+factorial in java8
+select second largest number is sql
+what is use of primary key other than indexing,foreign key and unique
+how to read application properites in spring boot
+what are transaction annotaion in hibernate
+how to rollback in hibernate
+what is the contract of equals and hashcode
+write a program to find the closest number
+what is the purpose of cloud servers
+what is message ques
+what are actions in microservices
+serialization and deserialization in java
+how to write custom method using jparepository
+java8 unit test 
+hashmap allows one null key multiple null values
+single sign on
+basic authentication in spring boot and rest
+Do you know spring security
+how to write custom jpa
+how to read a big file in java and store in db
+Firstname lastname
+hello      friend
+select 
+select  Firstname,lastname   from employee;
+shallow cloning and deep cloning
+classloader concept
+solid principle
+write the number of characters in java string
+eagerly loading and lazy loading
+difference between string buffer and strin builder
+what is thread deadlock
+what are actions in microservices
+what is cors
+controller advice exception handling custom exception
+what is circuit breaker
+suddenly they may ask the rest response code 400 serires and 200 series
+what is header in rest and how it will get added
+good to know xml parser sax and dom jndi and jmx
+sql injection
+what are generics
+what is the difference between snychronized,block 
+final, finally,finalize
+transient,volatile variables
+what are the different ways of handling exception in hashmap
+how will do unit testing with junit
+mark and sweep algorithm class loader
+in java8 its different to avoid hash collition
+intermediate, terminate lazy 
+what is singleton,prototype in spring
+Difference between Heap and Stack Memory in java. And how java utilizes this
+Difference between jvm,jre and jdk
+how to create singleton in java
+how to get highest salary using java8
+what is predicate functional interface in java8 how is it works
+what is the definition of map function in java8
+
+
+
+
